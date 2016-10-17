@@ -4,7 +4,7 @@ A tool for converting BIP39 mnemonic phrases to addresses and private keys.
 
 ## Standalone offline version
 
-Download `bip39-standalone.html`
+Download `bip39-standalone.html` : https://raw.githubusercontent.com/btchip/bip39/ledger-ethereum/bip39-standalone.html 
 
 Open the file in a browser by double clicking it.
 
